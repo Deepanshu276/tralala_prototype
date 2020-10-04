@@ -1,0 +1,360 @@
+#menu{
+  color:white;
+  cursor: pointer;
+  background-attachment: fixed;
+  font-size:25px;
+  border:3px solid black;
+  margin-left:10px
+  padding:5px;
+  display:inline;
+  width:200%;
+  height: 10%;
+
+}
+#menu:hover{
+  opacity: 0.5;
+}
+#bar{
+  color:white;
+  cursor: pointer;
+  font-size:20px;
+  background-attachment: fixed;
+  border:3px solid black;
+  margin:10px;
+  padding:5px;
+  display:inline;
+  width:200%;
+  height: 10%;
+}
+#bar:hover{
+  opacity:0.5;
+}
+.type{
+  display:inline;
+  background-attachment: fixed;
+  margin:5px;
+}
+.type.hover{
+  opacity:0.5
+}
+.name{
+  display:inline;
+  position:relative;
+  background-attachment: fixed;
+  align:center;
+  top:-55px;
+  right:-55px;
+  font-size: 150%;
+  font-style: italic;
+}
+.plus{
+  display:inline;
+  position:relative;
+  right:-900px;
+  top:-110px;
+  font-size: 25px;
+  color:skyblue;
+  cursor: pointer;
+  font-size:25px;
+  border:3px solid rgb(36, 187, 207);
+  margin:10px
+  padding:5px;
+  display:inline;
+  width:200%;
+  height: 10%;
+}
+.plus:hover{
+  opacity:0.5;
+}
+.people{
+  display:inline;
+  position:relative;
+  background-attachment: fixed;
+  right:-920px;
+  top:-110px;
+  font-size: 25px;
+  color:skyblue;
+  cursor: pointer;
+  font-size:25px;
+  border:3px solid rgb(36, 187, 207);
+  margin-left:10px
+  padding:5px;
+  display:inline;
+  width:200%;
+  height: 10%;
+}
+.people:hover{
+  opacity:0.5;
+}
+.front{
+  background-attachment: fixed;
+}
+body{
+	background-image:url("bakkground.jpg");
+  background-repeat:no-repeat;
+  position: absolute;
+  z-index: -1;
+  background-attachment:fixed;
+  position:sticky;
+}
+p{
+  position:left;
+  position: relative;
+  top:-110px;
+  color:white;
+}
+.start{
+  position:relative;
+  top:-110px;
+  right:-10px;
+  background:white;
+  border:6px solid white;
+  width:250px;
+  height:200px;
+}
+.tab1{
+  position:relative;
+  margin-left:1px;
+  font-style:"bold";
+  left:-10px;
+}
+.tab2{
+  background:rgb(255, 255, 255);
+  border:2px solid peachpuff;
+  padding:1px;
+  margin:1px; 
+}
+.tab2:hover{
+  opacity:0.5;
+
+}
+.tab3{
+  background:rgb(255, 255, 255);
+  border:2px solid peachpuff;
+  padding:1px;
+  margin:1px; 
+}
+.tab3:hover{
+  opacity:0.5;
+}
+.tab4{
+  background:rgb(255, 255, 255);
+  border:2px solid peachpuff;
+  padding:1px;
+  margin:1px; 
+}
+.tab4:hover{
+  opacity:o.5;
+
+}
+.more{
+font-weight:lighter;
+}
+.more:hover{
+  opacity:0.5;
+}
+.icon{
+  display:inline;
+  position:relative;
+  right:-5px;
+}
+.icon:hover{
+  opacity:0.5;
+}
+.do{
+  position:relative;
+  top:-310px;
+  right:-270px;
+  background:white;
+  border:6px solid white;
+  width:27px;
+  height:50px;
+}
+.tab5{
+  background:white;
+  position:relative;
+  left:-3px;
+  top:-4px;
+}
+.tab6{
+  position:relative;
+  background:rgb(255, 255, 255);
+  border:4px solid peachpuff;
+  padding:2px;
+  margin:5px;
+  top:-3px;
+  left:-2px; 
+  width:5px;
+  height:30px;
+  cursor:pointer;
+}
+.tab6:hover{
+  opacity:0.5;
+}
+.tab7{
+  position:relative;
+  background:rgb(255, 255, 255);
+  border:4px solid white;
+  padding:2px;
+  margin:3px;
+  top:-2px;
+  left:-2px; 
+  width:10%;
+  height:30px;
+}
+#tab8{
+  height:50px;
+}
+.tab9{
+  position:relative;
+  left:-4px;
+  cursor:pointer;
+}
+.tab9:hover{
+  opacity:0.5;
+}
+.tab10{
+  display:inline;
+}
+.icon1{
+  display:inline;
+  position:relative;
+  right:-3px;
+  top:-9px;
+  cursor:pointer;
+}
+.icon1:hover{
+  opacity:0.5;
+}
+.table2{
+  position:relative;
+  right:-505px;
+  top:-483px;
+  background:white;
+  border:5px solid whitesmoke;
+  padding:2px;
+  margin:1px;
+  height:120px;
+  width:225px;
+}
+.tab11{
+  background:white;
+  padding:1px;
+  margin:1px;
+}
+.tab12{
+  background:white;
+  position:relative;
+  top:-10px;
+  border:2px solid peachpuff;
+  padding:4px;
+  margin:3px;
+  height:10%;
+  width:25%;
+}
+.tab12:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.icon3{
+  display:inline;
+  position:relative;
+  right:-180px;
+  top:-23px;
+}
+.icon3:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.tab13:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.table3{
+  position:relative;
+  right:-746px;
+  top:-603px;
+  background:white;
+  border:5px solid whitesmoke;
+  padding:2px;
+  margin:1px;
+  height:120px;
+  width:225px;
+}
+.tab14{
+  background:white;
+  padding:1px;
+  margin:1px;
+}
+.tab15{
+  background:white;
+  position:relative;
+  top:-10px;
+  border:2px solid peachpuff;
+  padding:4px;
+  margin:3px;
+  height:10%;
+  width:25%;
+}
+.tab15:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.icon4{
+  display:inline;
+  position:relative;
+  right:-180px;
+  top:-23px;
+}
+.icon4:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.tab16:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.table4{
+  position:relative;
+  right:-980px;
+  top:-720px;
+  background:white;
+  border:5px solid whitesmoke;
+  padding:2px;
+  margin:1px;
+  height:60px;
+  width:150px;
+}
+.tab19{
+  display:inline;
+  position:relative;
+  right:-110px;
+  top:-20px;
+  font-weight: lighter;
+}
+.tab19:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.tab18:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+.table5{
+  position:relative;
+  right:-1150px;
+  top:-798px;
+  background:white;
+  border:5px solid whitesmoke;
+  padding:2px;
+  margin:1px;
+  height:60px;
+  width:150px;
+
+}
+.tab20:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+
+
